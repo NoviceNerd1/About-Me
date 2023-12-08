@@ -2,7 +2,7 @@
 About ME
 # About Me
 
-Hello there! 👋 I'm [Your Name], a passionate [Your Profession/Field] with a love for coding and continuous learning. Here's a glimpse into my world of technology:
+Hello there! 👋 I'm NoviceNerd1 aka Rishi Singh, a passionate AI ML Enthusiast with a love for coding and continuous learning. Here's a glimpse into my world of technology:
 
 ## 👨‍💻 About Me
 
