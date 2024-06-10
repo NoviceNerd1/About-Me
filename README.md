@@ -1,5 +1,4 @@
-# About-Me
-About ME
+
 # About Me
 
 Hello there! 👋 I'm NoviceNerd1 aka Rishi Singh, a passionate AI ML Enthusiast with a love for coding and continuous learning. Here's a glimpse into my world of technology:
@@ -14,35 +13,35 @@ Hello there! 👋 I'm NoviceNerd1 aka Rishi Singh, a passionate AI ML Enthusiast
 
 - **Programming Languages:** C/C++,Python,Java(Basics)
 - **Data Science:** Data Analysis, Data Preprocessing, Data Visualisation,etc.
-- **Other Skills:** Basic Skillset of Web Dev.
+- **Other Skills:** Basic Skillset of Web Dev, ML algorithms, Generative-AI.
 
 ## 🌐 Projects
-
 Here are some of the projects I've worked on:
 
-1. **Data Analysis and Visualization-Stock Market Trends (Mini ML Project)**
-   - Performed data analysis on historical stock market data using Python and Pandas.
-   - Created an interactive web dashboard using Plotly to present the analysis to stakeholders.
+1.**Stock Market Prediction**
+o	Objective: Utilized historical stock data to forecast future stock prices accurately.
+o	Languages & Tools: Python (with Pandas, Matplotlib, Plotly), Jupyter Notebook
+o	Approach: Employed advanced machine learning models, including Long Short-Term Memory (LSTM) networks, to analyze historical stock data. Utilized sophisticated visualization techniques to evaluate model performance by comparing predicted trends with actual data. Resulted in informed investment recommendations.
 
-2. **Future Sales Prediction (Mini ML Project)**
-   - Developed a predictive model for future sales based on historical data.
-   - Utilized machine learning techniques for accurate forecasting.
+2.	**Generative AI Development**
+o	Objective: Developed cutting-edge AI text and image generators.
+o	Languages & Tools: Python, Streamlit, PIL, Gemini-pro & Gemini-pro-vision
+o	Approach: Leveraged Gemini Pro to create innovative AI-powered generators. Crafted a high-quality text generator capable of generating diverse content across domains. Engineered an Image-to-Text generator using Gemini Pro Vision for seamless conversion of images into textual descriptions.
 
-3. **Online Payments Fraud Detection (Mini ML Project)**
-   - Implemented a system for detecting and preventing online payment fraud.
-   - Utilized machine learning algorithms and anomaly detection techniques.
+3.	**Future Sales Prediction**
+o	Objective: Utilized advanced time series analysis to project future sales accurately.
+o	Languages & Tools: Python (with Pandas, Matplotlib, Plotly), MLP, CNN-LSTM, Jupyter Notebook
+o	Approach: Employed advanced time series analysis techniques on historical sales data to identify patterns and seasonal trends. Leveraged machine learning algorithms like MLP and CNN-LSTM to extrapolate future sales projections with precision. Empowered businesses with actionable insights for strategic planning and decision-making.
 
-4. **Waiter Tips Prediction (Mini ML Project)**
-   - Predicted waiter tips based on various factors, enhancing service performance insights.
-   - Employed machine learning regression models and feature importance analysis.
+4.	**Credit Card Fraud Classifier**
+o	Objective: Developed a real-time fraud detection system for online payment platforms.
+o	Languages & Tools: Python (with Scikit-learn, TensorFlow), RandomForestClassifier, StandardScaler, DecisionTreeClassifier
+o	Approach: Implemented a Random Forest model trained on transactional data to proactively identify fraudulent activities. Utilized TensorFlow and Scikit-learn to create a real-time fraud detection system capable of swiftly detecting suspicious transactions. Enhanced security measures for online payment platforms.
 
-5. **YouTube Trending Videos Analysis (Mini ML Project)**
-   - Analyzed YouTube trending videos to understand patterns and factors influencing popularity.
-   - Utilized data scraping or API access, exploratory data analysis, and data visualization.
-
-6. **Titanic Tutorial Project on Kaggle (Mini ML Project)**
-   - Created a tutorial project on Kaggle using the famous Titanic dataset.
-   - Covered data preprocessing, exploratory data analysis, feature engineering, and machine learning
+5.	**House Price Prediction**
+o	Objective: Forecasted housing prices accurately for informed decision-making in the real estate market.
+o	Languages & Tools: Python (with Scikit-learn, Flask)
+o	Approach: Curated comprehensive housing datasets incorporating various factors like location, size, and amenities. Utilized advanced regression models to accurately forecast housing prices. Provided valuable insights for both buyers and sellers in the dynamic real estate market.
 
      
 ## 📫 Let's Connect
